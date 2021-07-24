@@ -1,0 +1,13 @@
+{
+    "movies": [
+        {"id" : "0", "title" : "A New Hope"},
+        {"id" : "1", "title" : "The Empire Strikes Back"},
+        {"id" : "2", "title" : "Return of the Jedi"},
+        {"id" : "3", "title" : "The Phantom Menace"},
+        {"id" : "4", "title" : "Attack of the Clones"},
+        {"id" : "5", "title" : "Revenge of the Sith"},
+        {"id" : "6", "title" : "The Force Awakens"},
+        {"id" : "7", "title" : "The Last Jedi"},
+        {"id" : "8", "title" : "The Rise of Skywalker"}
+    ]
+}
